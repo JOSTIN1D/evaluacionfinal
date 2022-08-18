@@ -1,4 +1,1 @@
 
-Codigo: 002 | Nombre :Jose | Curso :ingles | Nota 1: 14| Nota 2: 13 | Nota 3: 12 | Promedio: 13.0
-Codigo: 001 | Nombre :Ricardo | Curso :comunicacion | Nota 1: 15| Nota 2: 14 | Nota 3: 13 | Promedio: 14.0
-Codigo: 003 | Nombre :Davi | Curso :matematicas | Nota 1: 15 | Nota 2: 15 | Nota 3: 14 | Promedio: 14.666666666666666
